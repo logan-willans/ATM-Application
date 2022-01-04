@@ -7,7 +7,7 @@ The text files need to be saved within the same project directory as the source 
 
 ## License
 
-Copyright (c) 2021 Logan Willans
+Copyright (c) 2022 Logan Willans
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
